@@ -6,6 +6,9 @@
 
 [App 启动流程分析](https://zhuanlan.zhihu.com/p/59801160)
 
+[Glide入门教程](https://www.jianshu.com/p/7610bdbbad17)
+
+[Jetpack系列](https://www.jianshu.com/p/b1208012b268)
 
 
 #### Official Google Documentation
