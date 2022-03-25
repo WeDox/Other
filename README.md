@@ -1,7 +1,7 @@
 # Other
 
 #### Android学习资料
-[JVM常见垃圾收集器](https://blog.csdn.net/carson_ho/article/details/102675617/)
+[JVM常见垃圾收集器](https://blog.csdn.net/carson_ho/article/details/102675617)
 [https://zhuanlan.zhihu.com/p/59801160](https://zhuanlan.zhihu.com/p/59801160)
 
 
