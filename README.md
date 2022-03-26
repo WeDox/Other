@@ -12,6 +12,8 @@
 
 [OKHttp源码解析](https://www.jianshu.com/p/82f74db14a18)
 
+[Android性能优化系列](https://www.jianshu.com/p/797395731747)
+
 
 #### Official Google Documentation
 [Compose for Desktop](https://www.jetbrains.com/lp/compose/)
